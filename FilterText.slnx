@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FilterText/FilterText.csproj" />
+  <Project Path="FilterTextTest/FilterText.Tests.csproj" />
+</Solution>
